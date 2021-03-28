@@ -4,8 +4,7 @@ file-tracer is a C library for local file searching.
 
 ## Installation
 
-Just clone the directoory and include the C file in your project
-```
+Just clone the directory and include the C file in your project
 
 ## Usage/Docs
 
@@ -36,7 +35,6 @@ int main()
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
