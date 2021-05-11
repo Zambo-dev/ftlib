@@ -5,6 +5,7 @@ file-tracer is a C library for local file searching.
 ## Installation
 
 Just clone the directory and include the C file in your project
+This branch of ftlib is made for windows/linux and search only on the main disk / root partition, if you want to search on multiple disk check out ftlib docs and use the specific fucntions
 
 ## How to use
 
