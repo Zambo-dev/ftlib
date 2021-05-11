@@ -1,6 +1,6 @@
-# ftlib
+# ftcli
 
-file-tracer is a C library for local file searching.
+file-tracer command line interface is a tool for searching files and folders in your system, it's also cross platform
 
 ## Installation
 
